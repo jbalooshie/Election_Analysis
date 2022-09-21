@@ -1,4 +1,5 @@
 # Election_Analysis
+This repository was created as part of a 6 month Data Analystics Bootcamp administed by George Washington University. This is the repository for the Module 3 Challenge. This challenge served as an introduction to Python. Topics covered including writing if else statements, loading csvs, saving outputs to text files, and writing code that can be re-purposed.
 
 ## Project Overview
 The purpose of this project was to provide a summary of the results of a congressional election in a specific district. This summary will provide the total number of votes cast, the total number of votes received by each candidate, the percentage of the total vote each candidate received, the number of votes cast in each county, which candidate won the election, and which county cast the most votes. This information can be gathered by analyzing the data in Excel, but by writing a Python script we can provide an easy way to analyze results from other elections. The goal of this project is to deliver a functioning script that can analyze this specific election's results, and be re-purposed to analyze the results of other elections. 
